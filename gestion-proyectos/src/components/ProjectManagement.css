@@ -1,0 +1,11 @@
+.project-management {
+    padding: 20px;
+}
+
+.project-management h1 {
+    margin-bottom: 20px;
+}
+
+.project-management .p-datatable .p-button {
+    margin-right: 5px;
+}

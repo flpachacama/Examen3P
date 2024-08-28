@@ -1,0 +1,26 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+  
+.home-card {
+    width: 400px;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+  
+.home-card p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+  
+.p-button-lg {
+    font-size: 1.1rem;
+}
+  

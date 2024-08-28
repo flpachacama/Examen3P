@@ -1,0 +1,21 @@
+.navbar-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+    padding: 1rem;
+  }
+  
+  .ui-menubar {
+    width: auto; /* Ajusta el ancho del Menubar */
+  }
+  
+  .ui-menubar-root-list > li {
+    display: inline-flex;
+    margin-right: 2rem; /* Espacio entre los botones */
+  }
+  
+  .ui-menubar-root-list > li > .ui-menuitem-link {
+    font-size: 1.1rem;
+  }
+  
